@@ -1,6 +1,6 @@
 # Sebastians-Portfolio
 ####LinkedIn
-- https://www.linkedin.com/in/sebastianmarrero/
+https://www.linkedin.com/in/sebastianmarrero/
 
 ### Projects
 
