@@ -1,4 +1,7 @@
 # Sebastians-Portfolio
+####LinkedIn
+- https://www.linkedin.com/in/sebastianmarrero/
+
 ### Projects
 
 ### Work Experience
