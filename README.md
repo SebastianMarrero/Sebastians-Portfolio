@@ -1,11 +1,11 @@
-# Sebastians-Portfolio
+# Sebastians Portfolio
 ### LinkedIn
 https://www.linkedin.com/in/sebastianmarrero/
 
 ### Projects
 
 ### Work Experience
-Instinet, LLC, Nomura Holdings
+Instinet, LLC, Nomura Holdings (July 2023 - Current)
 - Conducting system performance tests via testing environment sprints in collaboration with product management and platform tech development teams to enhance client equity-trading experience as key objectives in team’s strategic plan, resulting in innovative product updates
 - Facilitating client troubleshooting calls by logging speaking points and organizing them as action items via Jira problem- tracking software, additionally implementing how-to guides on resolved client issues in confluence software
 - Spearheading website development of trading network monitoring tool by conducting A/B testing to determine most effective UX design, resulting in quicker and more strategic diagnosis of network problems and up to 50% faster response times to clients undergoing network interruptions
