@@ -1,3 +1,13 @@
+<section id="projects">
+    <h2>Recent Projects</h2>
+    <div class="project-card">
+        <h3>Project Name</h3>
+        <p>Description of the project. What challenges were faced, and how was it solved?</p>
+        <a href="https://github.com/yourusername/projectlink" target="_blank">View on GitHub</a>
+    </div>
+    <!-- Repeat project cards as necessary -->
+</section>
+
 # Sebastians Portfolio
 ### LinkedIn
 https://www.linkedin.com/in/sebastianmarrero/
