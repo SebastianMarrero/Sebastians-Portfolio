@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sebastian's Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background-color: #ffffff;
+      color: #333;
+    }
+    header {
+      padding: 2rem;
+      text-align: center;
+      background-color: #f5f5f5;
+      border-bottom: 1px solid #ddd;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    section {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+    .about {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+    .about img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 1rem;
+    }
+    .contact, .projects, .resume {
+      margin-top: 3rem;
+    }
+    .contact a, .resume a {
+      color: #007acc;
+      text-decoration: none;
+    }
+    .contact a:hover, .resume a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem;
+      background-color: #f5f5f5;
+      border-top: 1px solid #ddd;
+      font-size: 0.9rem;
+    }
+    @media (max-width: 600px) {
+      .about {
+        padding: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Sebastian's Data Portfolio</h1>
+  </header>
+
+  <section class="about">
+    <img src="LinkedInProfilePhoto.jpg" alt="Sebastian's Photo">
+    <p>
+      Hi, I’m Sebastian — an aspiring data analyst and economist with a passion for using data to uncover insights and solve real-world problems. I bring a unique blend of analytical skills, economic theory, and programming to drive smarter decision-making.
+    </p>
+  </section>
+
+  <section class="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a></p>
+    <p>GitHub: <a href="https://github.com/yourgithub" target="_blank">github.com/yourgithub</a></p>
+  </section>
+
+  <section class="resume">
+    <h2>Resume</h2>
+    <p><a href="Marrero, Sebastian Resume 03-14-2025.pdf" target="_blank">Download my resume (PDF)</a></p>
+  </section>
+
+  <section class="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>Project Title 1</strong>: Short description and <a href="#">Link</a></li>
+      <li><strong>Project Title 2</strong>: Short description and <a href="#">Link</a></li>
+      <li><strong>Project Title 3</strong>: Short description and <a href="#">Link</a></li>
+    </ul>
+  </section>
+
+</body>
+</html>
